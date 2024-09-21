@@ -1,0 +1,17 @@
+{
+  "name": "docker-backup-toolkit",
+  "description": "Docker volume backup and restore utility",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Shahrad Elahi <shahrad@litehex.com> (https://github.com/shahradelahi)",
+  "license": "MIT",
+  "packageManager": "pnpm@9.10.0",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "prettier-plugin-sh": "^0.14.0"
+  }
+}
