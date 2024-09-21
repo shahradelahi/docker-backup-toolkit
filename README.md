@@ -4,9 +4,9 @@
 
 - [Installation](#-installation)
 - [Usage](#-usage)
-    - [backup](#backup)
-    - [restore](#restore)
-- [Contributing](#-contributing) 
+  - [backup](#backup)
+  - [restore](#restore)
+- [Contributing](#-contributing)
 - [License](#license)
 
 ## 📦 Installation
